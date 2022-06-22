@@ -1,0 +1,19 @@
+Link para download do Git: https://git-scm.com/download/win
+
+O Git Bash é um terminal extendido para otimizar o uso do Git
+
+Alguns Comando do Git
+
+Git init
+Git add  ( o uso do "*" ou do "." ou "-A" seleciona tudo )
+Git Commit ( temos que Comitar todos as inclusoes e alterações). Git Commit -m "mensagem"
+Git Status
+Git push origin master
+Git pull
+Git clone
+
+
+Link para app Desktop GitHub: https://desktop.github.com/
+Link site GitHub : https://github.com/
+
+O Markdown é a melhor forma de formatar escritas de comentarios no Git/GitHub
